@@ -1,7 +1,7 @@
 import img1 from './assets/projects/Ecommerce.jpg'
 import img2 from './assets/projects/Yummy.jpg'
 import img3 from './assets/projects/Larry.jpg'
-import img4 from './assets/projects/Gameover.jpg'
+import img4 from './assets/projects/Game-over.jpg'
 import img5 from './assets/projects/Login.jpg'
 import img6 from './assets/projects/XO.jpg'
 
